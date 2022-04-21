@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["md5.js"],"sourcesContent":["export default function md5(s) { return s; }\n"],"names":["s"],"mappings":"eAAe,SAAaA,UAAYA"}
